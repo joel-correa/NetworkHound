@@ -236,6 +236,9 @@ I specialize in offensive security with a focus on integrating Artificial Intell
 - **Website**: [www.mordavid.com](https://www.mordavid.com)
 
 ---
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MorDavid/NetworkHound&type=date&legend=top-left)](https://www.star-history.com/#MorDavid/NetworkHound&type=date&legend=top-left)
 
 <div align="center">
 
